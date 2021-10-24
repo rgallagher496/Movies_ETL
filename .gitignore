@@ -1,5 +1,8 @@
-# remove to large file
+# remove large file
 ratings.csv
+
+#remove password file
+config.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
